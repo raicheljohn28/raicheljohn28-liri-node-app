@@ -183,9 +183,8 @@ function randomSearch() {
 
     fs.readFile("random.txt", "utf8", function(respError, data) {
 
-        var randomArray = data.split(", ");
-
-        errorFunction();
+        var randomArray = data.split(",");
+            errorFunction();
 
         if (randomArray[0] == "spotify-this-song") {
             searchSong(randomArray[1]);

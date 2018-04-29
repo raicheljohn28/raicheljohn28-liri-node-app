@@ -201,3 +201,109 @@ Tweeted on: Sun Apr 29 20:38:42 +0000 2018
 
 -----Tweets Log Ends-----
 
+-----Spotify Log Starts-----
+Processed on:
+Sun Apr 29 2018 18:31:08 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/raicheljohn/Documents/Assignment/raicheljohn28-liri-node-app/liri.js,spotify-this-song
+
+Data Output: 
+
+=== Result 1 =====
+Artist: Ace of Base
+Song title: The Sign
+Album name: The Sign (US Album) [Remastered]
+URL Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=4770f18f02b34d29aa745ae796b5adda
+=============================
+-----Spotify Log Ends-----
+
+-----Spotify Log Starts-----
+Processed on:
+Sun Apr 29 2018 18:31:48 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/raicheljohn/Documents/Assignment/raicheljohn28-liri-node-app/liri.js,do-what-it-says
+
+Data Output: 
+
+=== Result 1 =====
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Album name: The Hits--Chapter One
+URL Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=4770f18f02b34d29aa745ae796b5adda
+=============================
+-----Spotify Log Ends-----
+
+-----Spotify Log Starts-----
+Processed on:
+Sun Apr 29 2018 18:33:09 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/raicheljohn/Documents/Assignment/raicheljohn28-liri-node-app/liri.js,do-what-it-says
+
+Data Output: 
+
+=== Result 1 =====
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Album name: The Hits--Chapter One
+URL Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=4770f18f02b34d29aa745ae796b5adda
+=============================
+-----Spotify Log Ends-----
+
+-----OMDB Log Starts-----
+
+Processed on:
+Sun Apr 29 2018 18:34:50 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/raicheljohn/Documents/Assignment/raicheljohn28-liri-node-app/liri.js,do-what-it-says,movie-this
+
+Data Output: 
+
+Movie Title: Titanic
+Year: 1997
+IMDB rating: 7.8
+Rotten Tomatoes Rating: 88%
+Country: USA
+Language: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+-----OMDB Log Entry End-----
+
+-----Spotify Log Starts-----
+Processed on:
+Sun Apr 29 2018 18:36:05 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/raicheljohn/Documents/Assignment/raicheljohn28-liri-node-app/liri.js,do-what-it-says,spotify-this-song
+
+Data Output: 
+
+=== Result 1 =====
+Artist: Gina
+Song title: Every Night In My Dreams (Extended Mix)
+Album name: Every Night In My Dreams
+URL Preview: https://p.scdn.co/mp3-preview/c79e917dd53501201db99e6e0ece16ef47845788?cid=4770f18f02b34d29aa745ae796b5adda
+=============================
+-----Spotify Log Ends-----
+
+-----Spotify Log Starts-----
+Processed on:
+Sun Apr 29 2018 18:37:39 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/raicheljohn/Documents/Assignment/raicheljohn28-liri-node-app/liri.js,spotify-this-song
+
+Data Output: 
+
+=== Result 1 =====
+Artist: Ace of Base
+Song title: The Sign
+Album name: The Sign (US Album) [Remastered]
+URL Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=4770f18f02b34d29aa745ae796b5adda
+=============================
+-----Spotify Log Ends-----
+

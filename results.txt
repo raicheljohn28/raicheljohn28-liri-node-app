@@ -1,0 +1,203 @@
+-----OMDB Log Starts-----
+
+Processed on:
+Sun Apr 29 2018 17:26:05 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/raicheljohn/Documents/Assignment/raicheljohn28-liri-node-app/liri.js,movie-this
+
+Data Output: 
+
+Movie Title: Mr. Nobody
+Year: 2009
+IMDB rating: 7.9
+Rotten Tomatoes Rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Starts-----
+
+Processed on:
+Sun Apr 29 2018 17:26:36 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/raicheljohn/Documents/Assignment/raicheljohn28-liri-node-app/liri.js,movie-this,frozen
+
+Data Output: 
+
+Movie Title: Frozen
+Year: 2013
+IMDB rating: 7.5
+Rotten Tomatoes Rating: 90%
+Country: USA
+Language: English, Norwegian
+Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+
+-----OMDB Log Entry End-----
+
+-----Tweets Log Begins-----
+
+Processed at: 
+Sun Apr 29 2018 17:27:07 GMT-0400 (EDT)
+
+terminal commands: 
+/usr/local/bin/node,/Users/raicheljohn/Documents/Assignment/raicheljohn28-liri-node-app/liri.js,my-tweets
+
+Data Output: 
+
+1. Tweet: The more we do, the more we can do..
+Tweeted on: Sun Apr 29 20:51:17 +0000 2018
+
+2. Tweet: It's always too early to quit.
+Tweeted on: Sun Apr 29 20:50:26 +0000 2018
+
+3. Tweet: To begin, BEGIN!
+Tweeted on: Sun Apr 29 20:49:58 +0000 2018
+
+4. Tweet: To be a good loser is to learn how to win.
+Tweeted on: Sun Apr 29 20:49:26 +0000 2018
+
+5. Tweet: Go for it now. The future is promised to no one.
+Tweeted on: Sun Apr 29 20:48:54 +0000 2018
+
+6. Tweet: Never complain and never explain.
+Tweeted on: Sun Apr 29 20:48:27 +0000 2018
+
+7. Tweet: Change your life today. Don't gamble on the future, act now, without delay!!
+Tweeted on: Sun Apr 29 20:47:43 +0000 2018
+
+8. Tweet: Either you run the day or the day runs you.
+Tweeted on: Sun Apr 29 20:46:45 +0000 2018
+
+9. Tweet: Aim for a moon. If you miss, you may hit a star.
+Tweeted on: Sun Apr 29 20:46:22 +0000 2018
+
+10. Tweet: What you do today can improve all your tomorrows.
+Tweeted on: Sun Apr 29 20:45:50 +0000 2018
+
+11. Tweet: If you fell down yesterday, stand up today.
+Tweeted on: Sun Apr 29 20:44:48 +0000 2018
+
+12. Tweet: Without hard work nothing grows but weeds!
+Tweeted on: Sun Apr 29 20:44:19 +0000 2018
+
+13. Tweet: Set your goals high and don't stop until you get there!!
+Tweeted on: Sun Apr 29 20:43:46 +0000 2018
+
+14. Tweet: The secret of getting ahead is getting started.
+Tweeted on: Sun Apr 29 20:43:21 +0000 2018
+
+15. Tweet: If you're going through hell, keep going..
+Tweeted on: Sun Apr 29 20:42:55 +0000 2018
+
+16. Tweet: It does not matter how slowly you go as long as you do not stop.
+Tweeted on: Sun Apr 29 20:42:17 +0000 2018
+
+17. Tweet: With the new day comes new strength and new thoughts.
+Tweeted on: Sun Apr 29 20:41:45 +0000 2018
+
+18. Tweet: The past cannot be changed. The future is yet in your power
+Tweeted on: Sun Apr 29 20:40:53 +0000 2018
+
+19. Tweet: Only I can change my life. No one can do it for me.
+Tweeted on: Sun Apr 29 20:40:26 +0000 2018
+
+20. Tweet: It looks crummy outside, but it's warm.
+Tweeted on: Sun Apr 29 20:38:42 +0000 2018
+
+-----Tweets Log Ends-----
+
+-----Spotify Log Starts-----
+Processed on:
+Sun Apr 29 2018 17:27:30 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/raicheljohn/Documents/Assignment/raicheljohn28-liri-node-app/liri.js,spotify-this-song
+
+Data Output: 
+
+=== Result 1 =====
+Artist: Ace of Base
+Song title: The Sign
+Album name: The Sign (US Album) [Remastered]
+URL Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=4770f18f02b34d29aa745ae796b5adda
+=============================
+-----Spotify Log Ends-----
+
+-----Tweets Log Begins-----
+
+Processed at: 
+Sun Apr 29 2018 17:27:53 GMT-0400 (EDT)
+
+terminal commands: 
+/usr/local/bin/node,/Users/raicheljohn/Documents/Assignment/raicheljohn28-liri-node-app/liri.js,do-what-it-says
+
+Data Output: 
+
+1. Tweet: The more we do, the more we can do..
+Tweeted on: Sun Apr 29 20:51:17 +0000 2018
+
+2. Tweet: It's always too early to quit.
+Tweeted on: Sun Apr 29 20:50:26 +0000 2018
+
+3. Tweet: To begin, BEGIN!
+Tweeted on: Sun Apr 29 20:49:58 +0000 2018
+
+4. Tweet: To be a good loser is to learn how to win.
+Tweeted on: Sun Apr 29 20:49:26 +0000 2018
+
+5. Tweet: Go for it now. The future is promised to no one.
+Tweeted on: Sun Apr 29 20:48:54 +0000 2018
+
+6. Tweet: Never complain and never explain.
+Tweeted on: Sun Apr 29 20:48:27 +0000 2018
+
+7. Tweet: Change your life today. Don't gamble on the future, act now, without delay!!
+Tweeted on: Sun Apr 29 20:47:43 +0000 2018
+
+8. Tweet: Either you run the day or the day runs you.
+Tweeted on: Sun Apr 29 20:46:45 +0000 2018
+
+9. Tweet: Aim for a moon. If you miss, you may hit a star.
+Tweeted on: Sun Apr 29 20:46:22 +0000 2018
+
+10. Tweet: What you do today can improve all your tomorrows.
+Tweeted on: Sun Apr 29 20:45:50 +0000 2018
+
+11. Tweet: If you fell down yesterday, stand up today.
+Tweeted on: Sun Apr 29 20:44:48 +0000 2018
+
+12. Tweet: Without hard work nothing grows but weeds!
+Tweeted on: Sun Apr 29 20:44:19 +0000 2018
+
+13. Tweet: Set your goals high and don't stop until you get there!!
+Tweeted on: Sun Apr 29 20:43:46 +0000 2018
+
+14. Tweet: The secret of getting ahead is getting started.
+Tweeted on: Sun Apr 29 20:43:21 +0000 2018
+
+15. Tweet: If you're going through hell, keep going..
+Tweeted on: Sun Apr 29 20:42:55 +0000 2018
+
+16. Tweet: It does not matter how slowly you go as long as you do not stop.
+Tweeted on: Sun Apr 29 20:42:17 +0000 2018
+
+17. Tweet: With the new day comes new strength and new thoughts.
+Tweeted on: Sun Apr 29 20:41:45 +0000 2018
+
+18. Tweet: The past cannot be changed. The future is yet in your power
+Tweeted on: Sun Apr 29 20:40:53 +0000 2018
+
+19. Tweet: Only I can change my life. No one can do it for me.
+Tweeted on: Sun Apr 29 20:40:26 +0000 2018
+
+20. Tweet: It looks crummy outside, but it's warm.
+Tweeted on: Sun Apr 29 20:38:42 +0000 2018
+
+-----Tweets Log Ends-----
+
